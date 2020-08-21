@@ -13,9 +13,7 @@
           src="https://www.benarnews.org/thai/news/TH-Prawit-allegation-01162018140112.html/180116-TH-prawit-1000.jpg/@@images/cdbe68c1-c96f-4bc8-b869-f8fc24f7c3d0.jpeg"      
           class=" rounded "  width="70%" height="50%"        
         />
-        <p>
-          <br />
-        </p>
+        <p> <br /> </p>
         <Button  />
       </div>
       <div class="col-4">
