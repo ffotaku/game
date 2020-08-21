@@ -1,15 +1,12 @@
 <template>
   <div id="app">
-    
     <img
       src="https://siamrath.co.th/files/styles/1140/public/img/20191127/a90b412f49339d8eaf84096587c65daeeda24c78fbb1bc7a50039b8ba31820b9.jpg?itok=PaZcvRIG"
       class=" rounded " width="30%" height="20%"
     />
     <p><br /> </p>
-    
     <HelloWorld msg="KAWAII !!" />
     <br />
-
     <div class="row">
       <div class="col-4">
         <img
@@ -35,7 +32,6 @@
         <img
           src="https://thestandard.co/wp-content/uploads/2019/01/%E0%B8%9B%E0%B8%A3%E0%B8%B0%E0%B8%A7%E0%B8%B4%E0%B8%95%E0%B8%A3_cover-web.jpg"
           class="  rounded "  width="70%" height="50%"
-         
         />
         <p>
           <br />
